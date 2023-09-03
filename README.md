@@ -13,7 +13,7 @@ Describe...
 ## [Module 3 - Exploration of Basic Analysis](https://github.com/mrhallonline/NLP-Workshop/blob/main/Module_3_Basic_analysis_and_Analysis_Workshop_Natural_Language_Toolkit_(NLTK)_V3.ipynb) (20 minutes)
 1. Word counts and sorting
 2. Concordance
-3. N-grams and colocations
+3. N-grams and collocations
 4. Visualizations
 ## Break (10 minutes)
 ## [Module 4 - Basic Sentiment Analysis](https://github.com/mrhallonline/NLP-Workshop/blob/main/Module_4_Basic_Sentiment_Analysis_Workshop_Natural_Language_Toolkit_(NLTK)_V3.ipynb) (20 minutes)
