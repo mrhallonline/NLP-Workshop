@@ -1,4 +1,4 @@
-# NLP-Workshop
+# Natural Language Toolkit NLP-Workshop
 # Overview
 The data corpus that we will be using is a CSV file of Whisper AI transcription of a high school math class. This data is located in my Google Drive, we will use NLTK, Python, and Google Colab to copy and process the file so that it can be analyzed by you during the workshop. From there we will do some basic processing and analysis to extract specific features that give us information about student uncertainty during this math class, based on their conversations and fluctuating sentiment. We will end the workshop with a focus on the important first step of preprocessing our data corpus.
 ** Issues mounting Google Drive using an Ipad
