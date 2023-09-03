@@ -24,7 +24,7 @@ The data corpus that we will be using is a CSV file of Whisper AI transcription 
 4. Change in sentiment over time
 5. Listing words by sentiment
 6. Linking sentiment to uncertainty
-## [Module 5 - Text Wrangling and Preprocessing](https://github.com/mrhallonline/NLP-Workshop/blob/main/Module_5_Basics_of_Text_Preprocessing_Workshop_Natural_Language_Toolkit_(NLTK)_V3.ipynb) (20 minutes)
+## [Module 5 - Text Wrangling and Preprocessing](https://github.com/mrhallonline/NLP-Workshop/blob/main/Module_5_Basics_of_Text_Preprocessing_Workshop_Natural_Language_Toolkit_(NLTK)_V3.ipynb) (15 minutes)
 1. Tokenization
 2. Normalizing words
 3. Stemming
