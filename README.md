@@ -2,7 +2,7 @@
 # Overview
 The data corpus that we will be using is a CSV file of Whisper AI transcription of a high school math class. This data is located in my Google Drive, we will use NLTK, Python, and Google Colab to copy and process the file so that it can be analyzed by you during the workshop. From there we will do some basic processing and analysis to extract specific features that give us information about student uncertainty during this math class, based on their conversations and fluctuating sentiment. We will end the workshop with a focus on the important first step of preprocessing our data corpus.
 ** Issues mounting Google Drive using an Ipad.
-## [Module 1 - Introduction]() (15 minutes)
+## [Module 1 - Introduction](https://github.com/mrhallonline/NLP-Workshop/blob/main/Module_1_Workshop_Setting_Up_Natural_Language_Toolkit_(NLTK)_V3.ipynb) (15 minutes)
 1. Some NLP Basics
 2. What is feature extraction 
 3. Using Google Colab
