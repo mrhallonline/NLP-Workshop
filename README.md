@@ -17,7 +17,7 @@ The data corpus that we will be using is a CSV file of Whisper AI transcription 
 3. N-grams and collocations
 4. Visualizations
 ## Break (10 minutes)
-## [Module 4 - Basic Sentiment Analysis](https://github.com/mrhallonline/NLP-Workshop/blob/main/Module_4_Basic_Sentiment_Analysis_Workshop_Natural_Language_Toolkit_(NLTK)_V3.ipynb) (20 minutes)
+## [Module 4 - Basic Sentiment Analysis](https://github.com/mrhallonline/NLP-Workshop/blob/main/Module_4_Running_Basic_Sentiment_Analysis_Workshop_Natural_Language_Toolkit_(NLTK)_V3.ipynb) (20 minutes)
 1. Setting up
 2. Uncertainty words dictionary
 3. Looking at sentiment in student uncertainty
