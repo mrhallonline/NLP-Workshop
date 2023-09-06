@@ -33,4 +33,4 @@ The data corpus that we will be using is a CSV file of Whisper AI transcription 
 ## Conclusion (15 minutes)
 1. Issues to keep in mind when normalizing your data corpus
 2. Potential pitfalls and ethical considerations
-3. Ethical considerations/Further usage
+3. Wrap-up
