@@ -25,12 +25,12 @@ The data corpus that we will be using is a CSV file of Whisper AI transcription 
 5. Listing words by sentiment
 6. Linking sentiment to uncertainty
 ## [Module 5 - Text Wrangling and Preprocessing](https://github.com/mrhallonline/NLP-Workshop/blob/main/Module_5_Basics_of_Text_Preprocessing_Workshop_Natural_Language_Toolkit_(NLTK)_V3.ipynb) (15 minutes)
-1. Tokenization
-2. Normalizing words
-3. Stemming
-4. Lemmatizing
-5. Stop word removal
-## [Module 6 - Conclusion]() (10 minutes)
-1. Feature extraction
+1. Reconnecting to Google Drive and basic processing
+2. Tokenizing Text Using Different Regular Expressions
+3. All-in-One Text Normalization Using NLTK
+4. Viewing the List of English Stopwords using NLTK
+5. List of Ways to Extract Features Using Regular Expression as the tokenizer
+## [Conclusion]() (10 minutes)
+1. Issues to keep in mind when normalizing your data corpus
 2. Potential pitfalls and ethical considerations
-3. Further usage
+3. Ethical considerations/Further usage
