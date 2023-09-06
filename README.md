@@ -30,7 +30,7 @@ The data corpus that we will be using is a CSV file of Whisper AI transcription 
 3. All-in-One Text Normalization Using NLTK
 4. Viewing the List of English Stopwords using NLTK
 5. List of Ways to Extract Features Using Regular Expression as the tokenizer
-## [Conclusion]() (10 minutes)
+## Conclusion (10 minutes)
 1. Issues to keep in mind when normalizing your data corpus
 2. Potential pitfalls and ethical considerations
 3. Ethical considerations/Further usage
